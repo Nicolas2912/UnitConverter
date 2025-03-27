@@ -45,10 +45,12 @@ yarn-error.log
 
 # IDE/Editor specific
 .idea/
+__pycache__
 .vscode/
 *.swp
 *.swo
 *~
+./
 .DS_Store
 *.sublime-workspace
 *.sublime-project
