@@ -18,7 +18,6 @@ A comprehensive unit conversion application with a Python backend and React fron
 - **Dual Implementation**:
   - Standalone Python class for direct use in Python code
   - Flask API backend with React frontend for web use
-  - Streamlit interface option for quick Python deployment
 
 - **User-Friendly Interfaces**:
   - Clean, responsive React UI with Tailwind CSS and DaisyUI
