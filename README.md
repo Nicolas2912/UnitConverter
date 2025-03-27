@@ -123,7 +123,6 @@ npm run build
 ### Python
 - Flask (for API)
 - flask-cors (for CORS support)
-- Streamlit (for Streamlit UI)
 
 ### Frontend
 - React 
