@@ -74,15 +74,6 @@ python api.py
 
 The server runs on `http://localhost:5001` by default.
 
-### Streamlit Application
-
-For those who prefer a quick Python UI without setting up React:
-
-```bash
-pip install streamlit
-streamlit run unit_converter_app.py
-```
-
 ## Frontend (React)
 
 The React frontend provides a responsive, modern web interface.
